@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Utkarsh Malik</h1>
+<h3 align="center">A passionate software developer from India</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=utkarshmalik211 alt=utkarshmalik211/> </p>
 
-<!--
-**utkarshmalik211/utkarshmalik211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about **Python, Golang, Machine Learning, Code optimisation**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **utkarshmalik211@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"><img src=https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg alt=amazonwebservices width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg alt=docker width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg alt=go width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg alt=redis width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="20" height="20"/></p><p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=utkarshmalik211&show_icons=true alt=utkarshmalik211 /> </p>
+
+<p align="center"> 
+<a href=https://linkedin.com/in/utkarshmalik211 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="utkarshmalik211" height="20" width="20" /></a>
+<a href=https://stackoverflow.com/utkarshmalik211 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="utkarshmalik211" height="20" width="20" /></a>
+<a href=https://fb.com/utkarshmalik211 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="utkarshmalik211" height="20" width="20" /></a>
+<a href=https://instagram.com/utkarshmalik211 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="utkarshmalik211" height="20" width="20" /></a>
+</p>
